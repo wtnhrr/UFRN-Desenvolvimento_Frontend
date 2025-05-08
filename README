@@ -9,24 +9,24 @@ Este é um projeto de lista de tarefas simples, desenvolvido para ajudar os usu�
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 
 2. Clone este repositório:
-    ```
-    git clone <URL_DO_REPOSITORIO>
-    ```
+```bash
+git clone <URL_DO_REPOSITORIO>
+```
 
 3. Navegue até o diretório do projeto:
-    ```
-    cd To-Do
-    ```
+```bash
+cd To-Do
+```
 
 4. Instale as dependências:
-    ```
-    npm install
-    ```
+```bash
+npm install
+```
 
 5. Inicie o servidor de desenvolvimento:
-    ```
-    npm start
-    ```
+```bash
+npm start
+```
 
 6. Abra o navegador e acesse `http://localhost:3000` para visualizar o projeto.
 
