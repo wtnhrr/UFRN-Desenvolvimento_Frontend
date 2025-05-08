@@ -12,16 +12,27 @@ Este é um projeto de lista de tarefas simples, desenvolvido para ajudar os usu�
     ```
     git clone <URL_DO_REPOSITORIO>
     ```
+
 3. Navegue até o diretório do projeto:
     ```
     cd To-Do
     ```
+
 4. Instale as dependências:
     ```
     npm install
     ```
+
 5. Inicie o servidor de desenvolvimento:
     ```
     npm start
     ```
+
 6. Abra o navegador e acesse `http://localhost:3000` para visualizar o projeto.
+
+## Funcionalidades
+
+- **Adicionar tarefas**: Adicione novas tarefas à lista.
+- **Editar tarefas**: Modifique as tarefas existentes.
+- **Marcar tarefas como concluídas**: Marque uma tarefa como concluída para manter o controle.
+- **Excluir tarefas**: Remova tarefas que não são mais necessárias.
