@@ -1,3 +1,5 @@
+
+- - -
 # To-Do Project (Avaliação 1)
 
 Este é um projeto de lista de tarefas simples, desenvolvido para ajudar os usuários a organizar e gerenciar suas atividades diárias. Ele permite adicionar, editar, marcar como concluídas e excluir tarefas.
@@ -5,6 +7,7 @@ Este é um projeto de lista de tarefas simples, desenvolvido para ajudar os usu�
 ## Como iniciar o projeto
 
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
+
 2. Clone este repositório:
     ```
     git clone <URL_DO_REPOSITORIO>
